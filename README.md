@@ -3,7 +3,7 @@
 
 模型权重 : [vgg16_weights.npz](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz) 
 
-TensorFlow模型- vgg16.py 
+TensorFlow模型- vgg6.20.py 
 
 类名（输出模型到类名的映射） - imagenet_classes.py 
 
